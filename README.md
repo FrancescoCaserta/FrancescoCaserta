@@ -25,7 +25,7 @@ I've worked on diverse tech challenges, especially in:
 - ⚙️ **Embedded Systems**
 - 🧠 **AI at the Edge**
 
-[GitHub Repositories](https://github.com/FrancescoCaserta) 
+[GitHub Repositories](https://github.com/FrancescoCaserta?tab=repositories) 
 
 ---
 

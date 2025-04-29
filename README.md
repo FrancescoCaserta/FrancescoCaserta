@@ -14,7 +14,7 @@ I recently graduated in **Computer Science and Engineering** from **Politecnico 
 In my final year, I joined the **[NESLab](https://www.neslab.it/)** at Politecnico di Milano under the supervision of **Prof. Luca Mottola**.
 
 There, I worked with **Crazyflie 2.1 nanodrones** 🛸, designing a novel **Human-Drone Interaction paradigm**  
-that allows **end-users to customize drone behavior at runtime** — bridging the gap between robotics and usability.
+that allows **end-users to customize drone behavior at runtime** — fully prototyped and tested on 10 volunteer users.
 
 ---
 

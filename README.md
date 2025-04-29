@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Francesco Caserta!
+## 👋 Hi there, I'm Francesco Caserta!
 
 🎓 Fresh Graduate | 🤖 Aspiring Roboticist
 

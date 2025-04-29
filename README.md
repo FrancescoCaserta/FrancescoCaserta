@@ -18,13 +18,14 @@ that allows **end-users to customize drone behavior at runtime** — bridging th
 
 ---
 
-### 🔧 Past Projects & Skills
-
+### 🔧 Past Projects & Skills 
 I've worked on diverse tech challenges, especially in:
 
 - 🧿 **Computer Vision**
 - ⚙️ **Embedded Systems**
 - 🧠 **AI at the Edge**
+
+[GitHub Repositories](https://github.com/FrancescoCaserta) 
 
 ---
 
@@ -45,8 +46,8 @@ I'm currently working towards building a career in **robotics** 🤖 — blendin
 
 ### 📫 Let's Connect
 
-Feel free to reach out if you want to collaborate or just chat about drones, robotics, or embedded AI!
+Feel free to reach out if you want to collaborate or just chat about drones, robotics, or embedded AI!  
+You can find me on [LinkedIn](https://www.linkedin.com/in/francesco-caserta-83b423190).
 
-[LinkedIn](https://www.linkedin.com/in/francesco-caserta-83b423190) 
-[GitHub Repositories](https://github.com/FrancescoCaserta) 
+
 ---

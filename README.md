@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Francesco Caserta!
 
-🎓 Fresh Graduate | 🤖 Aspiring Roboticist | 🇮🇹 From the heart of **[Sacile](https://it.wikipedia.org/wiki/Sacile)**
+🎓 Fresh Graduate | 🤖 Aspiring Roboticist
 
 ---
 
